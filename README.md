@@ -1,3 +1,3 @@
 ### Student Performance predtion 
 ## End to end machile learning project implemented with complete help of @KrishNaik sir 
-![Screenshot (39)](https://github.com/Govardhan211103/Student_performance_prediction/assets/112187319/c358542e-a1dc-4e35-8b3d-d12c0dfd13e4)
+![Screenshot (39)](https://github.com/Govardhan211103/Student_performance_prediction/assets/112187319/28f9a7eb-027c-415a-a07a-3ce88b7d78e8)
